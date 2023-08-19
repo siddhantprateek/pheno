@@ -1,0 +1,7 @@
+# modules
+.venv
+
+# environment variables
+.env
+.vscode
+
