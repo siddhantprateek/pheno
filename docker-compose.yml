@@ -7,11 +7,9 @@ services:
       context: .
       dockerfile: ./Dockerfile
     ports:
-      - 8090:8090
+      - 8000:8000
     networks:
       - phenonet
-    volumes:
-      - ./pheno_data:./
     restart: always
 
   grafana:
@@ -22,10 +20,12 @@ services:
       - GF_AUTH_ANONYMOUS_ENABLED=true
       - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin
       - GF_INSTALL_PLUGINS=yesoreyeram-infinity-datasource
+      - GF_PATHS_PROVISIONING=/etc/grafana/provisioning
     ports:
       - 3000:3000
     volumes:
       - grf_data:/var/lib/grafana
+      - ./monitoring/datasource.yml:/etc/grafana/provisioning/datasources/datasource.yml
     networks:
       - phenonet
     restart: unless-stopped
@@ -69,6 +69,7 @@ services:
 
 volumes:
   grf_data:
+  prometheus_data:
 
 networks:
   phenonet:

@@ -1,0 +1,5 @@
+apiVersion: 1
+datasources:
+  - name: PhenoDataSource
+    type: pheno
+    url: http://pheno:8000
