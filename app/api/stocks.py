@@ -1,6 +1,7 @@
 from fastapi import APIRouter
 import json
 import os
+from modules import converter
 router = APIRouter()
 
 
@@ -13,7 +14,10 @@ async def root():
 @router.get("/stocks")
 async def stocks():
     current_directory = os.getcwd()
-    json_data_path = f'{current_directory}/data/NFdata.json'
+    
+    converter.csv_to_json()
+
+    json_data_path = f'{current_directory}/data/output.json'
 
     with open(json_data_path, 'r') as json_file:
         data = json.load(json_file)
