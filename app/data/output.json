@@ -1,0 +1,1738 @@
+[
+    {
+        "Date": "Wed Jan 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "39.05",
+        "High": "43.21",
+        "Low": "38.67",
+        "Close": "41.21"
+    },
+    {
+        "Date": "Mon Feb 03 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "41.67",
+        "High": "42.56",
+        "Low": "37.78",
+        "Close": "41.74"
+    },
+    {
+        "Date": "Mon Mar 03 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "42.18",
+        "High": "43.38",
+        "Low": "37.00",
+        "Close": "39.50"
+    },
+    {
+        "Date": "Tue Apr 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "39.78",
+        "High": "41.05",
+        "Low": "38.91",
+        "Close": "39.39"
+    },
+    {
+        "Date": "Thu May 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "39.18",
+        "High": "53.56",
+        "Low": "39.18",
+        "Close": "53.04"
+    },
+    {
+        "Date": "Mon Jun 02 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "54.44",
+        "High": "57.21",
+        "Low": "50.62",
+        "Close": "53.72"
+    },
+    {
+        "Date": "Tue Jul 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "54.00",
+        "High": "55.77",
+        "Low": "48.91",
+        "Close": "50.52"
+    },
+    {
+        "Date": "Fri Aug 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "51.66",
+        "High": "74.44",
+        "Low": "50.23",
+        "Close": "68.45"
+    },
+    {
+        "Date": "Mon Sep 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "69.11",
+        "High": "77.09",
+        "Low": "56.90",
+        "Close": "67.91"
+    },
+    {
+        "Date": "Wed Oct 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "69.11",
+        "High": "72.00",
+        "Low": "63.11",
+        "Close": "66.23"
+    },
+    {
+        "Date": "Mon Nov 03 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "67.56",
+        "High": "74.98",
+        "Low": "65.69",
+        "Close": "68.61"
+    },
+    {
+        "Date": "Mon Dec 01 2003 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "69.01",
+        "High": "90.32",
+        "Low": "67.56",
+        "Close": "88.69"
+    },
+    {
+        "Date": "Thu Jan 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "90.56",
+        "High": "111.11",
+        "Low": "79.28",
+        "Close": "82.29"
+    },
+    {
+        "Date": "Mon Feb 02 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "82.22",
+        "High": "87.41",
+        "Low": "73.89",
+        "Close": "79.99"
+    },
+    {
+        "Date": "Mon Mar 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "80.67",
+        "High": "97.74",
+        "Low": "80.56",
+        "Close": "93.41"
+    },
+    {
+        "Date": "Thu Apr 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "92.00",
+        "High": "105.33",
+        "Low": "90.24",
+        "Close": "93.33"
+    },
+    {
+        "Date": "Mon May 03 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "92.78",
+        "High": "96.32",
+        "Low": "56.67",
+        "Close": "78.37"
+    },
+    {
+        "Date": "Tue Jun 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "69.22",
+        "High": "71.44",
+        "Low": "68.00",
+        "Close": "69.88"
+    },
+    {
+        "Date": "Thu Jul 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "70.00",
+        "High": "80.08",
+        "Low": "69.44",
+        "Close": "79.66"
+    },
+    {
+        "Date": "Mon Aug 02 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "79.81",
+        "High": "82.30",
+        "Low": "72.22",
+        "Close": "79.35"
+    },
+    {
+        "Date": "Wed Sep 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "79.44",
+        "High": "84.97",
+        "Low": "76.11",
+        "Close": "83.26"
+    },
+    {
+        "Date": "Fri Oct 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "82.78",
+        "High": "91.19",
+        "Low": "82.68",
+        "Close": "87.72"
+    },
+    {
+        "Date": "Mon Nov 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "87.56",
+        "High": "92.43",
+        "Low": "86.23",
+        "Close": "90.54"
+    },
+    {
+        "Date": "Wed Dec 01 2004 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "91.11",
+        "High": "96.22",
+        "Low": "90.01",
+        "Close": "91.11"
+    },
+    {
+        "Date": "Mon Jan 03 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "91.67",
+        "High": "93.11",
+        "Low": "84.69",
+        "Close": "90.96"
+    },
+    {
+        "Date": "Tue Feb 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "91.68",
+        "High": "95.11",
+        "Low": "88.91",
+        "Close": "94.74"
+    },
+    {
+        "Date": "Tue Mar 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "95.00",
+        "High": "111.11",
+        "Low": "92.01",
+        "Close": "98.37"
+    },
+    {
+        "Date": "Fri Apr 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "98.73",
+        "High": "104.22",
+        "Low": "89.59",
+        "Close": "90.13"
+    },
+    {
+        "Date": "Mon May 02 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "93.33",
+        "High": "103.26",
+        "Low": "90.68",
+        "Close": "102.53"
+    },
+    {
+        "Date": "Wed Jun 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "102.37",
+        "High": "114.87",
+        "Low": "100.08",
+        "Close": "114.16"
+    },
+    {
+        "Date": "Fri Jul 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "113.89",
+        "High": "113.89",
+        "Low": "98.89",
+        "Close": "104.28"
+    },
+    {
+        "Date": "Mon Aug 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "104.48",
+        "High": "113.05",
+        "Low": "98.96",
+        "Close": "109.09"
+    },
+    {
+        "Date": "Thu Sep 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "108.27",
+        "High": "122.22",
+        "Low": "107.33",
+        "Close": "117.89"
+    },
+    {
+        "Date": "Mon Oct 03 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "118.33",
+        "High": "120.13",
+        "Low": "90.00",
+        "Close": "103.23"
+    },
+    {
+        "Date": "Tue Nov 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "107.22",
+        "High": "120.56",
+        "Low": "102.22",
+        "Close": "114.41"
+    },
+    {
+        "Date": "Thu Dec 01 2005 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "115.02",
+        "High": "135.55",
+        "Low": "112.78",
+        "Close": "130.47"
+    },
+    {
+        "Date": "Mon Jan 02 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "131.44",
+        "High": "144.22",
+        "Low": "116.67",
+        "Close": "137.48"
+    },
+    {
+        "Date": "Wed Feb 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "138.86",
+        "High": "138.86",
+        "Low": "123.37",
+        "Close": "126.27"
+    },
+    {
+        "Date": "Wed Mar 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "126.44",
+        "High": "150.56",
+        "Low": "123.46",
+        "Close": "145.71"
+    },
+    {
+        "Date": "Mon Apr 03 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "145.54",
+        "High": "155.56",
+        "Low": "137.22",
+        "Close": "143.80"
+    },
+    {
+        "Date": "Mon May 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "145.00",
+        "High": "168.21",
+        "Low": "116.68",
+        "Close": "124.03"
+    },
+    {
+        "Date": "Thu Jun 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "127.56",
+        "High": "128.63",
+        "Low": "102.22",
+        "Close": "123.12"
+    },
+    {
+        "Date": "Mon Jul 03 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "123.11",
+        "High": "133.33",
+        "Low": "113.39",
+        "Close": "130.35"
+    },
+    {
+        "Date": "Tue Aug 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "130.56",
+        "High": "139.42",
+        "Low": "124.67",
+        "Close": "135.29"
+    },
+    {
+        "Date": "Fri Sep 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "133.93",
+        "High": "137.22",
+        "Low": "125.78",
+        "Close": "129.98"
+    },
+    {
+        "Date": "Mon Oct 02 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "130.03",
+        "High": "136.54",
+        "Low": "124.44",
+        "Close": "135.96"
+    },
+    {
+        "Date": "Wed Nov 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "133.67",
+        "High": "149.17",
+        "Low": "133.17",
+        "Close": "143.73"
+    },
+    {
+        "Date": "Fri Dec 01 2006 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "143.67",
+        "High": "148.37",
+        "Low": "125.89",
+        "Close": "145.22"
+    },
+    {
+        "Date": "Mon Jan 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "146.67",
+        "High": "156.13",
+        "Low": "143.33",
+        "Close": "151.90"
+    },
+    {
+        "Date": "Thu Feb 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "152.00",
+        "High": "154.68",
+        "Low": "121.08",
+        "Close": "131.34"
+    },
+    {
+        "Date": "Thu Mar 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "131.34",
+        "High": "147.50",
+        "Low": "125.18",
+        "Close": "146.80"
+    },
+    {
+        "Date": "Mon Apr 02 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "145.83",
+        "High": "165.00",
+        "Low": "136.50",
+        "Close": "152.31"
+    },
+    {
+        "Date": "Tue May 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "153.98",
+        "High": "157.48",
+        "Low": "144.67",
+        "Close": "153.72"
+    },
+    {
+        "Date": "Fri Jun 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "153.67",
+        "High": "158.33",
+        "Low": "137.78",
+        "Close": "150.93"
+    },
+    {
+        "Date": "Mon Jul 02 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "151.00",
+        "High": "159.83",
+        "Low": "144.63",
+        "Close": "152.43"
+    },
+    {
+        "Date": "Wed Aug 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "152.33",
+        "High": "152.33",
+        "Low": "128.00",
+        "Close": "143.28"
+    },
+    {
+        "Date": "Mon Sep 03 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "143.33",
+        "High": "164.00",
+        "Low": "137.03",
+        "Close": "159.68"
+    },
+    {
+        "Date": "Mon Oct 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "160.33",
+        "High": "211.35",
+        "Low": "153.35",
+        "Close": "207.73"
+    },
+    {
+        "Date": "Thu Nov 01 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "211.48",
+        "High": "230.84",
+        "Low": "185.52",
+        "Close": "194.59"
+    },
+    {
+        "Date": "Mon Dec 03 2007 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "193.33",
+        "High": "212.27",
+        "Low": "190.17",
+        "Close": "206.16"
+    },
+    {
+        "Date": "Tue Jan 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "206.67",
+        "High": "226.00",
+        "Low": "138.33",
+        "Close": "164.93"
+    },
+    {
+        "Date": "Fri Feb 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "165.84",
+        "High": "186.90",
+        "Low": "150.83",
+        "Close": "169.53"
+    },
+    {
+        "Date": "Mon Mar 03 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "170.73",
+        "High": "184.47",
+        "Low": "153.59",
+        "Close": "163.43"
+    },
+    {
+        "Date": "Tue Apr 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "166.67",
+        "High": "178.83",
+        "Low": "161.17",
+        "Close": "172.18"
+    },
+    {
+        "Date": "Thu May 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "174.00",
+        "High": "175.75",
+        "Low": "140.03",
+        "Close": "144.20"
+    },
+    {
+        "Date": "Mon Jun 02 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "145.00",
+        "High": "162.48",
+        "Low": "132.50",
+        "Close": "135.84"
+    },
+    {
+        "Date": "Tue Jul 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "138.33",
+        "High": "181.33",
+        "Low": "129.78",
+        "Close": "166.04"
+    },
+    {
+        "Date": "Fri Aug 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "163.37",
+        "High": "190.00",
+        "Low": "158.97",
+        "Close": "170.54"
+    },
+    {
+        "Date": "Mon Sep 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "169.83",
+        "High": "188.28",
+        "Low": "153.67",
+        "Close": "172.37"
+    },
+    {
+        "Date": "Wed Oct 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "177.40",
+        "High": "177.40",
+        "Low": "89.69",
+        "Close": "111.52"
+    },
+    {
+        "Date": "Mon Nov 03 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "116.67",
+        "High": "135.00",
+        "Low": "102.05",
+        "Close": "115.63"
+    },
+    {
+        "Date": "Mon Dec 01 2008 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "120.81",
+        "High": "123.62",
+        "Low": "104.51",
+        "Close": "111.18"
+    },
+    {
+        "Date": "Thu Jan 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "111.17",
+        "High": "132.90",
+        "Low": "97.97",
+        "Close": "109.16"
+    },
+    {
+        "Date": "Mon Feb 02 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "108.38",
+        "High": "123.10",
+        "Low": "105.00",
+        "Close": "115.17"
+    },
+    {
+        "Date": "Mon Mar 02 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "110.68",
+        "High": "140.57",
+        "Low": "106.25",
+        "Close": "130.03"
+    },
+    {
+        "Date": "Wed Apr 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "130.00",
+        "High": "153.75",
+        "Low": "125.20",
+        "Close": "144.13"
+    },
+    {
+        "Date": "Fri May 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "149.78",
+        "High": "203.33",
+        "Low": "133.73",
+        "Close": "194.88"
+    },
+    {
+        "Date": "Mon Jun 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "195.18",
+        "High": "203.33",
+        "Low": "160.67",
+        "Close": "177.88"
+    },
+    {
+        "Date": "Wed Jul 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "177.53",
+        "High": "196.28",
+        "Low": "160.50",
+        "Close": "194.01"
+    },
+    {
+        "Date": "Mon Aug 03 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "194.17",
+        "High": "205.00",
+        "Low": "184.68",
+        "Close": "197.58"
+    },
+    {
+        "Date": "Tue Sep 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "195.93",
+        "High": "202.38",
+        "Low": "155.71",
+        "Close": "195.33"
+    },
+    {
+        "Date": "Thu Oct 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "195.91",
+        "High": "212.94",
+        "Low": "187.72",
+        "Close": "188.63"
+    },
+    {
+        "Date": "Mon Nov 02 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "190.82",
+        "High": "201.97",
+        "Low": "184.20",
+        "Close": "199.96"
+    },
+    {
+        "Date": "Tue Dec 01 2009 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "200.67",
+        "High": "202.83",
+        "Low": "192.13",
+        "Close": "196.33"
+    },
+    {
+        "Date": "Fri Jan 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "196.17",
+        "High": "207.79",
+        "Low": "179.17",
+        "Close": "182.73"
+    },
+    {
+        "Date": "Mon Feb 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "181.00",
+        "High": "192.50",
+        "Low": "177.50",
+        "Close": "186.27"
+    },
+    {
+        "Date": "Mon Mar 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "186.68",
+        "High": "189.77",
+        "Low": "174.19",
+        "Close": "183.12"
+    },
+    {
+        "Date": "Thu Apr 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "183.50",
+        "High": "185.00",
+        "Low": "166.00",
+        "Close": "175.80"
+    },
+    {
+        "Date": "Mon May 03 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "175.00",
+        "High": "196.28",
+        "Low": "168.67",
+        "Close": "194.62"
+    },
+    {
+        "Date": "Tue Jun 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "195.00",
+        "High": "221.90",
+        "Low": "190.00",
+        "Close": "220.13"
+    },
+    {
+        "Date": "Thu Jul 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "220.13",
+        "High": "224.48",
+        "Low": "203.33",
+        "Close": "206.78"
+    },
+    {
+        "Date": "Mon Aug 02 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "206.67",
+        "High": "226.65",
+        "Low": "201.33",
+        "Close": "222.93"
+    },
+    {
+        "Date": "Wed Sep 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "224.93",
+        "High": "245.43",
+        "Low": "220.00",
+        "Close": "234.02"
+    },
+    {
+        "Date": "Fri Oct 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "234.39",
+        "High": "240.73",
+        "Low": "215.00",
+        "Close": "217.34"
+    },
+    {
+        "Date": "Mon Nov 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "220.67",
+        "High": "232.67",
+        "Low": "198.67",
+        "Close": "207.55"
+    },
+    {
+        "Date": "Wed Dec 01 2010 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "208.33",
+        "High": "227.31",
+        "Low": "207.75",
+        "Close": "214.70"
+    },
+    {
+        "Date": "Mon Jan 03 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "217.33",
+        "High": "217.33",
+        "Low": "183.78",
+        "Close": "196.30"
+    },
+    {
+        "Date": "Tue Feb 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "198.50",
+        "High": "205.53",
+        "Low": "173.40",
+        "Close": "180.23"
+    },
+    {
+        "Date": "Tue Mar 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "182.00",
+        "High": "196.13",
+        "Low": "174.67",
+        "Close": "194.20"
+    },
+    {
+        "Date": "Fri Apr 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "195.00",
+        "High": "217.10",
+        "Low": "185.70",
+        "Close": "205.20"
+    },
+    {
+        "Date": "Mon May 02 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "206.00",
+        "High": "210.53",
+        "Low": "174.27",
+        "Close": "187.37"
+    },
+    {
+        "Date": "Wed Jun 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "188.67",
+        "High": "198.33",
+        "Low": "165.37",
+        "Close": "182.83"
+    },
+    {
+        "Date": "Fri Jul 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "193.93",
+        "High": "193.93",
+        "Low": "178.93",
+        "Close": "179.50"
+    },
+    {
+        "Date": "Mon Aug 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "180.77",
+        "High": "193.43",
+        "Low": "173.33",
+        "Close": "175.53"
+    },
+    {
+        "Date": "Thu Sep 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "181.33",
+        "High": "187.03",
+        "Low": "168.83",
+        "Close": "177.40"
+    },
+    {
+        "Date": "Mon Oct 03 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "175.33",
+        "High": "196.53",
+        "Low": "173.17",
+        "Close": "185.10"
+    },
+    {
+        "Date": "Tue Nov 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "183.70",
+        "High": "192.03",
+        "Low": "161.17",
+        "Close": "177.83"
+    },
+    {
+        "Date": "Thu Dec 01 2011 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "182.10",
+        "High": "185.20",
+        "Low": "163.17",
+        "Close": "171.07"
+    },
+    {
+        "Date": "Mon Jan 02 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "171.67",
+        "High": "188.53",
+        "Low": "168.80",
+        "Close": "184.03"
+    },
+    {
+        "Date": "Wed Feb 01 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "182.13",
+        "High": "202.83",
+        "Low": "179.33",
+        "Close": "195.47"
+    },
+    {
+        "Date": "Thu Mar 01 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "196.57",
+        "High": "197.63",
+        "Low": "169.33",
+        "Close": "178.90"
+    },
+    {
+        "Date": "Mon Apr 02 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "179.27",
+        "High": "183.97",
+        "Low": "171.40",
+        "Close": "180.03"
+    },
+    {
+        "Date": "Tue May 01 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "179.03",
+        "High": "180.23",
+        "Low": "160.07",
+        "Close": "168.80"
+    },
+    {
+        "Date": "Fri Jun 01 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "167.33",
+        "High": "190.53",
+        "Low": "162.83",
+        "Close": "189.90"
+    },
+    {
+        "Date": "Mon Jul 02 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "189.97",
+        "High": "195.50",
+        "Low": "182.13",
+        "Close": "190.70"
+    },
+    {
+        "Date": "Wed Aug 01 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "191.73",
+        "High": "193.77",
+        "Low": "180.13",
+        "Close": "183.93"
+    },
+    {
+        "Date": "Mon Sep 03 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "184.43",
+        "High": "198.00",
+        "Low": "179.00",
+        "Close": "187.23"
+    },
+    {
+        "Date": "Mon Oct 01 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "186.67",
+        "High": "192.67",
+        "Low": "151.60",
+        "Close": "179.00"
+    },
+    {
+        "Date": "Thu Nov 01 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "177.67",
+        "High": "179.70",
+        "Low": "165.67",
+        "Close": "176.63"
+    },
+    {
+        "Date": "Mon Dec 03 2012 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "176.67",
+        "High": "180.67",
+        "Low": "170.07",
+        "Close": "178.67"
+    },
+    {
+        "Date": "Tue Jan 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "179.40",
+        "High": "236.67",
+        "Low": "177.33",
+        "Close": "226.47"
+    },
+    {
+        "Date": "Fri Feb 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "225.70",
+        "High": "228.33",
+        "Low": "200.17",
+        "Close": "208.97"
+    },
+    {
+        "Date": "Fri Mar 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "208.60",
+        "High": "220.00",
+        "Low": "192.83",
+        "Close": "207.60"
+    },
+    {
+        "Date": "Mon Apr 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "208.17",
+        "High": "224.33",
+        "Low": "197.10",
+        "Close": "217.80"
+    },
+    {
+        "Date": "Wed May 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "215.33",
+        "High": "230.13",
+        "Low": "211.63",
+        "Close": "218.60"
+    },
+    {
+        "Date": "Mon Jun 03 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "218.17",
+        "High": "235.37",
+        "Low": "197.40",
+        "Close": "220.73"
+    },
+    {
+        "Date": "Mon Jul 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "221.63",
+        "High": "226.17",
+        "Low": "176.97",
+        "Close": "193.80"
+    },
+    {
+        "Date": "Thu Aug 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "195.37",
+        "High": "197.83",
+        "Low": "156.13",
+        "Close": "166.10"
+    },
+    {
+        "Date": "Mon Sep 02 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "169.93",
+        "High": "201.67",
+        "Low": "163.80",
+        "Close": "178.57"
+    },
+    {
+        "Date": "Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "180.00",
+        "High": "200.53",
+        "Low": "173.87",
+        "Close": "195.80"
+    },
+    {
+        "Date": "Fri Nov 01 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "196.20",
+        "High": "199.87",
+        "Low": "175.67",
+        "Close": "199.40"
+    },
+    {
+        "Date": "Mon Dec 02 2013 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "194.60",
+        "High": "204.97",
+        "Low": "181.00",
+        "Close": "192.60"
+    },
+    {
+        "Date": "Wed Jan 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "193.33",
+        "High": "196.53",
+        "Low": "180.07",
+        "Close": "183.70"
+    },
+    {
+        "Date": "Mon Feb 03 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "182.00",
+        "High": "195.17",
+        "Low": "176.10",
+        "Close": "194.23"
+    },
+    {
+        "Date": "Mon Mar 03 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "193.03",
+        "High": "223.60",
+        "Low": "191.33",
+        "Close": "212.47"
+    },
+    {
+        "Date": "Tue Apr 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "214.00",
+        "High": "221.63",
+        "Low": "209.03",
+        "Close": "216.73"
+    },
+    {
+        "Date": "Thu May 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "217.97",
+        "High": "283.33",
+        "Low": "215.10",
+        "Close": "252.10"
+    },
+    {
+        "Date": "Mon Jun 02 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "253.73",
+        "High": "314.57",
+        "Low": "252.17",
+        "Close": "283.23"
+    },
+    {
+        "Date": "Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "286.00",
+        "High": "286.67",
+        "Low": "260.37",
+        "Close": "263.57"
+    },
+    {
+        "Date": "Fri Aug 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "262.77",
+        "High": "293.67",
+        "Low": "256.10",
+        "Close": "290.00"
+    },
+    {
+        "Date": "Mon Sep 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "293.23",
+        "High": "305.30",
+        "Low": "263.40",
+        "Close": "272.37"
+    },
+    {
+        "Date": "Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "273.23",
+        "High": "286.00",
+        "Low": "259.10",
+        "Close": "270.10"
+    },
+    {
+        "Date": "Mon Nov 03 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "270.67",
+        "High": "275.00",
+        "Low": "250.00",
+        "Close": "252.93"
+    },
+    {
+        "Date": "Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "252.13",
+        "High": "254.67",
+        "Low": "219.40",
+        "Close": "227.57"
+    },
+    {
+        "Date": "Thu Jan 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "226.83",
+        "High": "238.67",
+        "Low": "218.73",
+        "Close": "234.23"
+    },
+    {
+        "Date": "Mon Feb 02 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "236.67",
+        "High": "249.20",
+        "Low": "208.43",
+        "Close": "216.50"
+    },
+    {
+        "Date": "Mon Mar 02 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "219.20",
+        "High": "219.73",
+        "Low": "199.20",
+        "Close": "204.23"
+    },
+    {
+        "Date": "Wed Apr 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "204.67",
+        "High": "221.93",
+        "Low": "202.07",
+        "Close": "202.67"
+    },
+    {
+        "Date": "Fri May 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "204.07",
+        "High": "228.80",
+        "Low": "204.07",
+        "Close": "219.90"
+    },
+    {
+        "Date": "Mon Jun 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "219.33",
+        "High": "219.93",
+        "Low": "198.20",
+        "Close": "206.40"
+    },
+    {
+        "Date": "Wed Jul 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "206.00",
+        "High": "211.40",
+        "Low": "175.63",
+        "Close": "181.80"
+    },
+    {
+        "Date": "Mon Aug 03 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "181.93",
+        "High": "189.80",
+        "Low": "148.67",
+        "Close": "159.53"
+    },
+    {
+        "Date": "Tue Sep 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "161.87",
+        "High": "162.23",
+        "Low": "145.13",
+        "Close": "152.90"
+    },
+    {
+        "Date": "Thu Oct 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "152.90",
+        "High": "178.50",
+        "Low": "152.00",
+        "Close": "164.63"
+    },
+    {
+        "Date": "Mon Nov 02 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "164.63",
+        "High": "171.07",
+        "Low": "147.50",
+        "Close": "156.10"
+    },
+    {
+        "Date": "Tue Dec 01 2015 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "156.37",
+        "High": "162.53",
+        "Low": "140.83",
+        "Close": "161.17"
+    },
+    {
+        "Date": "Fri Jan 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "159.93",
+        "High": "163.20",
+        "Low": "137.30",
+        "Close": "150.83"
+    },
+    {
+        "Date": "Mon Feb 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "151.87",
+        "High": "151.87",
+        "Low": "125.17",
+        "Close": "129.40"
+    },
+    {
+        "Date": "Tue Mar 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "129.27",
+        "High": "146.10",
+        "Low": "125.70",
+        "Close": "142.73"
+    },
+    {
+        "Date": "Fri Apr 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "143.00",
+        "High": "150.27",
+        "Low": "136.00",
+        "Close": "144.83"
+    },
+    {
+        "Date": "Mon May 02 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "145.33",
+        "High": "147.43",
+        "Low": "133.33",
+        "Close": "140.50"
+    },
+    {
+        "Date": "Wed Jun 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "140.93",
+        "High": "148.47",
+        "Low": "138.00",
+        "Close": "144.20"
+    },
+    {
+        "Date": "Fri Jul 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "144.60",
+        "High": "161.03",
+        "Low": "144.30",
+        "Close": "146.73"
+    },
+    {
+        "Date": "Mon Aug 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "148.20",
+        "High": "162.60",
+        "Low": "145.07",
+        "Close": "157.53"
+    },
+    {
+        "Date": "Thu Sep 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "158.00",
+        "High": "175.57",
+        "Low": "156.73",
+        "Close": "171.10"
+    },
+    {
+        "Date": "Mon Oct 03 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "171.33",
+        "High": "198.27",
+        "Low": "168.27",
+        "Close": "192.80"
+    },
+    {
+        "Date": "Tue Nov 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "193.53",
+        "High": "194.13",
+        "Low": "166.67",
+        "Close": "192.60"
+    },
+    {
+        "Date": "Thu Dec 01 2016 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "196.67",
+        "High": "209.73",
+        "Low": "187.70",
+        "Close": "191.35"
+    },
+    {
+        "Date": "Mon Jan 02 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "191.80",
+        "High": "211.80",
+        "Low": "191.15",
+        "Close": "202.55"
+    },
+    {
+        "Date": "Wed Feb 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "203.00",
+        "High": "205.00",
+        "Low": "190.80",
+        "Close": "193.55"
+    },
+    {
+        "Date": "Wed Mar 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "196.70",
+        "High": "197.20",
+        "Low": "183.00",
+        "Close": "185.00"
+    },
+    {
+        "Date": "Mon Apr 03 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "185.20",
+        "High": "188.70",
+        "Low": "178.30",
+        "Close": "186.55"
+    },
+    {
+        "Date": "Mon May 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "188.00",
+        "High": "194.75",
+        "Low": "171.20",
+        "Close": "177.00"
+    },
+    {
+        "Date": "Thu Jun 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "176.90",
+        "High": "178.50",
+        "Low": "155.20",
+        "Close": "157.30"
+    },
+    {
+        "Date": "Mon Jul 03 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "157.40",
+        "High": "170.00",
+        "Low": "155.90",
+        "Close": "169.40"
+    },
+    {
+        "Date": "Tue Aug 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "170.25",
+        "High": "170.30",
+        "Low": "156.05",
+        "Close": "156.95"
+    },
+    {
+        "Date": "Fri Sep 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "158.00",
+        "High": "174.35",
+        "Low": "157.30",
+        "Close": "170.95"
+    },
+    {
+        "Date": "Mon Oct 02 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "174.00",
+        "High": "192.00",
+        "Low": "167.75",
+        "Close": "191.10"
+    },
+    {
+        "Date": "Wed Nov 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "192.00",
+        "High": "205.50",
+        "Low": "175.80",
+        "Close": "180.65"
+    },
+    {
+        "Date": "Fri Dec 01 2017 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "182.00",
+        "High": "197.15",
+        "Low": "175.35",
+        "Close": "195.20"
+    },
+    {
+        "Date": "Mon Jan 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "195.20",
+        "High": "212.85",
+        "Low": "192.00",
+        "Close": "203.45"
+    },
+    {
+        "Date": "Thu Feb 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "204.05",
+        "High": "207.05",
+        "Low": "180.10",
+        "Close": "188.30"
+    },
+    {
+        "Date": "Thu Mar 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "187.90",
+        "High": "190.20",
+        "Low": "173.60",
+        "Close": "177.80"
+    },
+    {
+        "Date": "Mon Apr 02 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "179.10",
+        "High": "186.25",
+        "Low": "174.70",
+        "Close": "180.55"
+    },
+    {
+        "Date": "Tue May 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "181.50",
+        "High": "192.00",
+        "Low": "155.15",
+        "Close": "177.90"
+    },
+    {
+        "Date": "Fri Jun 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "176.00",
+        "High": "176.00",
+        "Low": "151.80",
+        "Close": "158.40"
+    },
+    {
+        "Date": "Mon Jul 02 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "157.85",
+        "High": "166.75",
+        "Low": "152.45",
+        "Close": "165.70"
+    },
+    {
+        "Date": "Wed Aug 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "165.25",
+        "High": "181.90",
+        "Low": "162.50",
+        "Close": "180.05"
+    },
+    {
+        "Date": "Mon Sep 03 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "180.75",
+        "High": "185.40",
+        "Low": "166.20",
+        "Close": "177.20"
+    },
+    {
+        "Date": "Mon Oct 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "179.30",
+        "High": "183.50",
+        "Low": "144.70",
+        "Close": "153.25"
+    },
+    {
+        "Date": "Thu Nov 01 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "155.50",
+        "High": "165.00",
+        "Low": "137.65",
+        "Close": "140.30"
+    },
+    {
+        "Date": "Mon Dec 03 2018 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "140.95",
+        "High": "151.50",
+        "Low": "134.75",
+        "Close": "149.90"
+    },
+    {
+        "Date": "Tue Jan 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "150.00",
+        "High": "150.10",
+        "Low": "138.50",
+        "Close": "141.25"
+    },
+    {
+        "Date": "Fri Feb 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "141.00",
+        "High": "150.75",
+        "Low": "127.60",
+        "Close": "148.65"
+    },
+    {
+        "Date": "Fri Mar 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "149.90",
+        "High": "163.20",
+        "Low": "145.70",
+        "Close": "159.75"
+    },
+    {
+        "Date": "Mon Apr 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "160.50",
+        "High": "171.15",
+        "Low": "153.30",
+        "Close": "169.20"
+    },
+    {
+        "Date": "Wed May 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "169.30",
+        "High": "178.90",
+        "Low": "160.85",
+        "Close": "171.95"
+    },
+    {
+        "Date": "Mon Jun 03 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "173.00",
+        "High": "173.50",
+        "Low": "162.95",
+        "Close": "167.75"
+    },
+    {
+        "Date": "Mon Jul 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "168.20",
+        "High": "170.40",
+        "Low": "136.25",
+        "Close": "138.85"
+    },
+    {
+        "Date": "Thu Aug 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "138.50",
+        "High": "139.75",
+        "Low": "115.75",
+        "Close": "121.20"
+    },
+    {
+        "Date": "Mon Sep 02 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "120.50",
+        "High": "140.85",
+        "Low": "115.55",
+        "Close": "131.80"
+    },
+    {
+        "Date": "Tue Oct 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "131.50",
+        "High": "146.15",
+        "Low": "123.95",
+        "Close": "141.70"
+    },
+    {
+        "Date": "Fri Nov 01 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "140.55",
+        "High": "149.65",
+        "Low": "129.25",
+        "Close": "131.75"
+    },
+    {
+        "Date": "Mon Dec 02 2019 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "131.05",
+        "High": "131.45",
+        "Low": "124.05",
+        "Close": "128.80"
+    },
+    {
+        "Date": "Wed Jan 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "128.75",
+        "High": "133.40",
+        "Low": "102.70",
+        "Close": "104.35"
+    },
+    {
+        "Date": "Mon Feb 03 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "104.35",
+        "High": "109.75",
+        "Low": "89.50",
+        "Close": "91.95"
+    },
+    {
+        "Date": "Mon Mar 02 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "94.00",
+        "High": "95.00",
+        "Low": "50.00",
+        "Close": "68.30"
+    },
+    {
+        "Date": "Wed Apr 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "67.00",
+        "High": "81.05",
+        "Low": "60.80",
+        "Close": "79.90"
+    },
+    {
+        "Date": "Fri May 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "76.00",
+        "High": "83.75",
+        "Low": "72.40",
+        "Close": "83.20"
+    },
+    {
+        "Date": "Mon Jun 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "85.00",
+        "High": "93.10",
+        "Low": "80.00",
+        "Close": "81.35"
+    },
+    {
+        "Date": "Wed Jul 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "79.00",
+        "High": "84.90",
+        "Low": "75.00",
+        "Close": "78.30"
+    },
+    {
+        "Date": "Mon Aug 03 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "78.35",
+        "High": "85.50",
+        "Low": "75.55",
+        "Close": "81.95"
+    },
+    {
+        "Date": "Tue Sep 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "82.75",
+        "High": "82.80",
+        "Low": "65.50",
+        "Close": "69.25"
+    },
+    {
+        "Date": "Thu Oct 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "67.50",
+        "High": "73.35",
+        "Low": "64.10",
+        "Close": "64.90"
+    },
+    {
+        "Date": "Mon Nov 02 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "65.40",
+        "High": "81.80",
+        "Low": "64.20",
+        "Close": "78.50"
+    },
+    {
+        "Date": "Tue Dec 01 2020 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "78.50",
+        "High": "105.60",
+        "Low": "77.05",
+        "Close": "93.05"
+    },
+    {
+        "Date": "Fri Jan 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "93.75",
+        "High": "107.90",
+        "Low": "87.75",
+        "Close": "88.30"
+    },
+    {
+        "Date": "Mon Feb 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "89.00",
+        "High": "120.50",
+        "Low": "88.45",
+        "Close": "111.00"
+    },
+    {
+        "Date": "Mon Mar 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "114.30",
+        "High": "122.35",
+        "Low": "100.25",
+        "Close": "102.15"
+    },
+    {
+        "Date": "Thu Apr 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "103.00",
+        "High": "112.70",
+        "Low": "97.45",
+        "Close": "108.15"
+    },
+    {
+        "Date": "Mon May 03 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "108.15",
+        "High": "121.15",
+        "Low": "106.00",
+        "Close": "113.65"
+    },
+    {
+        "Date": "Tue Jun 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "114.35",
+        "High": "128.50",
+        "Low": "114.20",
+        "Close": "117.70"
+    },
+    {
+        "Date": "Thu Jul 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "117.75",
+        "High": "125.00",
+        "Low": "111.60",
+        "Close": "115.30"
+    },
+    {
+        "Date": "Mon Aug 02 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "114.95",
+        "High": "121.00",
+        "Low": "108.50",
+        "Close": "120.55"
+    },
+    {
+        "Date": "Wed Sep 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "121.80",
+        "High": "148.80",
+        "Low": "117.50",
+        "Close": "144.50"
+    },
+    {
+        "Date": "Fri Oct 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "145.20",
+        "High": "172.75",
+        "Low": "144.10",
+        "Close": "149.05"
+    },
+    {
+        "Date": "Mon Nov 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "150.00",
+        "High": "162.25",
+        "Low": "141.10",
+        "Close": "142.10"
+    },
+    {
+        "Date": "Wed Dec 01 2021 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "142.40",
+        "High": "150.50",
+        "Low": "131.65",
+        "Close": "142.40"
+    },
+    {
+        "Date": "Mon Jan 03 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "142.35",
+        "High": "174.85",
+        "Low": "141.20",
+        "Close": "172.60"
+    },
+    {
+        "Date": "Tue Feb 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "174.00",
+        "High": "176.35",
+        "Low": "155.80",
+        "Close": "160.65"
+    },
+    {
+        "Date": "Tue Mar 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "165.65",
+        "High": "194.95",
+        "Low": "161.15",
+        "Close": "163.90"
+    },
+    {
+        "Date": "Fri Apr 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "163.90",
+        "High": "179.80",
+        "Low": "159.50",
+        "Close": "160.45"
+    },
+    {
+        "Date": "Mon May 02 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "158.15",
+        "High": "168.40",
+        "Low": "141.10",
+        "Close": "151.25"
+    },
+    {
+        "Date": "Wed Jun 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "151.20",
+        "High": "167.35",
+        "Low": "130.00",
+        "Close": "151.55"
+    },
+    {
+        "Date": "Fri Jul 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "148.95",
+        "High": "151.15",
+        "Low": "119.85",
+        "Close": "134.15"
+    },
+    {
+        "Date": "Mon Aug 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "134.10",
+        "High": "141.90",
+        "Low": "129.80",
+        "Close": "138.60"
+    },
+    {
+        "Date": "Thu Sep 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "135.00",
+        "High": "136.25",
+        "Low": "121.50",
+        "Close": "126.80"
+    },
+    {
+        "Date": "Mon Oct 03 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "131.70",
+        "High": "136.55",
+        "Low": "125.80",
+        "Close": "134.05"
+    },
+    {
+        "Date": "Tue Nov 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "134.10",
+        "High": "143.80",
+        "Low": "132.90",
+        "Close": "141.10"
+    },
+    {
+        "Date": "Thu Dec 01 2022 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "141.45",
+        "High": "150.50",
+        "Low": "139.20",
+        "Close": "146.75"
+    },
+    {
+        "Date": "Mon Jan 02 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "147.30",
+        "High": "154.15",
+        "Low": "143.25",
+        "Close": "144.90"
+    },
+    {
+        "Date": "Wed Feb 01 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "145.80",
+        "High": "158.80",
+        "Low": "140.10",
+        "Close": "152.05"
+    },
+    {
+        "Date": "Wed Mar 01 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "152.00",
+        "High": "159.70",
+        "Low": "146.50",
+        "Close": "151.05"
+    },
+    {
+        "Date": "Mon Apr 03 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "154.50",
+        "High": "161.80",
+        "Low": "150.00",
+        "Close": "158.95"
+    },
+    {
+        "Date": "Mon May 01 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "159.50",
+        "High": "169.00",
+        "Low": "150.05",
+        "Close": "154.90"
+    },
+    {
+        "Date": "Thu Jun 01 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "154.70",
+        "High": "161.00",
+        "Low": "152.55",
+        "Close": "160.30"
+    },
+    {
+        "Date": "Mon Jul 03 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "160.30",
+        "High": "177.50",
+        "Low": "160.00",
+        "Close": "177.05"
+    },
+    {
+        "Date": "Tue Aug 01 2023 00:00:00 GMT+0530 (India Standard Time)",
+        "Open": "175.30",
+        "High": "180.45",
+        "Low": "171.50",
+        "Close": "173.20"
+    }
+]
